@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pinkiebb.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pinkiebb down0000" x="10" y="10" width="879" height="777"/>
+	<SubTexture name="pinkiebb down0001" x="899" y="10" width="879" height="777"/>
+	<SubTexture name="pinkiebb down0002" x="899" y="10" width="879" height="777"/>
+	<SubTexture name="pinkiebb down0003" x="1788" y="10" width="879" height="777"/>
+	<SubTexture name="pinkiebb down0004" x="1788" y="10" width="879" height="777"/>
+	<SubTexture name="pinkiebb down0005" x="2677" y="10" width="879" height="777"/>
+	<SubTexture name="pinkiebb down0006" x="2677" y="10" width="879" height="777"/>
+	<SubTexture name="pinkiebb down0007" x="3566" y="10" width="879" height="777"/>
+	<SubTexture name="pinkiebb down0008" x="3566" y="10" width="879" height="777"/>
+	<SubTexture name="pinkiebb down0009" x="4455" y="10" width="879" height="777"/>
+	<SubTexture name="pinkiebb down0010" x="4455" y="10" width="879" height="777"/>
+	<SubTexture name="pinkiebb down0011" x="5344" y="10" width="879" height="777"/>
+	<SubTexture name="pinkiebb down0012" x="5344" y="10" width="879" height="777"/>
+	<SubTexture name="pinkiebb down0013" x="5344" y="10" width="879" height="777"/>
+	<SubTexture name="pinkiebb idle0000" x="6233" y="10" width="620" height="508" frameX="-4" frameY="-83" frameWidth="624" frameHeight="591"/>
+	<SubTexture name="pinkiebb idle0001" x="6233" y="10" width="620" height="508" frameX="-4" frameY="-83" frameWidth="624" frameHeight="591"/>
+	<SubTexture name="pinkiebb idle0002" x="6863" y="10" width="608" height="514" frameX="0" frameY="-77" frameWidth="624" frameHeight="591"/>
+	<SubTexture name="pinkiebb idle0003" x="6863" y="10" width="608" height="514" frameX="0" frameY="-77" frameWidth="624" frameHeight="591"/>
+	<SubTexture name="pinkiebb idle0004" x="7481" y="10" width="595" height="527" frameX="-9" frameY="-64" frameWidth="624" frameHeight="591"/>
+	<SubTexture name="pinkiebb idle0005" x="7481" y="10" width="595" height="527" frameX="-9" frameY="-64" frameWidth="624" frameHeight="591"/>
+	<SubTexture name="pinkiebb idle0006" x="10" y="797" width="589" height="530" frameX="-15" frameY="-61" frameWidth="624" frameHeight="591"/>
+	<SubTexture name="pinkiebb idle0007" x="10" y="797" width="589" height="530" frameX="-15" frameY="-61" frameWidth="624" frameHeight="591"/>
+	<SubTexture name="pinkiebb idle0008" x="609" y="797" width="559" height="587" frameX="-26" frameY="0" frameWidth="624" frameHeight="591"/>
+	<SubTexture name="pinkiebb idle0009" x="609" y="797" width="559" height="587" frameX="-26" frameY="0" frameWidth="624" frameHeight="591"/>
+	<SubTexture name="pinkiebb idle0010" x="1178" y="797" width="557" height="580" frameX="-29" frameY="-7" frameWidth="624" frameHeight="591"/>
+	<SubTexture name="pinkiebb idle0011" x="1178" y="797" width="557" height="580" frameX="-29" frameY="-7" frameWidth="624" frameHeight="591"/>
+	<SubTexture name="pinkiebb idle0012" x="1745" y="797" width="561" height="578" frameX="-27" frameY="-10" frameWidth="624" frameHeight="591"/>
+	<SubTexture name="pinkiebb idle0013" x="1745" y="797" width="561" height="578" frameX="-27" frameY="-10" frameWidth="624" frameHeight="591"/>
+	<SubTexture name="pinkiebb idle0014" x="2316" y="797" width="561" height="570" frameX="-27" frameY="-17" frameWidth="624" frameHeight="591"/>
+	<SubTexture name="pinkiebb idle0015" x="2316" y="797" width="561" height="570" frameX="-27" frameY="-17" frameWidth="624" frameHeight="591"/>
+	<SubTexture name="pinkiebb left0000" x="2887" y="797" width="385" height="553" frameX="0" frameY="-10" frameWidth="400" frameHeight="563"/>
+	<SubTexture name="pinkiebb left0001" x="3282" y="797" width="384" height="561" frameX="-11" frameY="-2" frameWidth="400" frameHeight="563"/>
+	<SubTexture name="pinkiebb left0002" x="3282" y="797" width="384" height="561" frameX="-11" frameY="-2" frameWidth="400" frameHeight="563"/>
+	<SubTexture name="pinkiebb left0003" x="3676" y="797" width="372" height="563" frameX="-27" frameY="0" frameWidth="400" frameHeight="563"/>
+	<SubTexture name="pinkiebb left0004" x="3676" y="797" width="372" height="563" frameX="-27" frameY="0" frameWidth="400" frameHeight="563"/>
+	<SubTexture name="pinkiebb left0005" x="4058" y="797" width="358" height="560" frameX="-42" frameY="-3" frameWidth="400" frameHeight="563"/>
+	<SubTexture name="pinkiebb left0006" x="4058" y="797" width="358" height="560" frameX="-42" frameY="-3" frameWidth="400" frameHeight="563"/>
+	<SubTexture name="pinkiebb left0007" x="4426" y="797" width="350" height="559" frameX="-50" frameY="-4" frameWidth="400" frameHeight="563"/>
+	<SubTexture name="pinkiebb left0008" x="4426" y="797" width="350" height="559" frameX="-50" frameY="-4" frameWidth="400" frameHeight="563"/>
+	<SubTexture name="pinkiebb left0009" x="4786" y="797" width="350" height="558" frameX="-50" frameY="-5" frameWidth="400" frameHeight="563"/>
+	<SubTexture name="pinkiebb left0010" x="4786" y="797" width="350" height="558" frameX="-50" frameY="-5" frameWidth="400" frameHeight="563"/>
+	<SubTexture name="pinkiebb left0011" x="5146" y="797" width="350" height="558" frameX="-50" frameY="-5" frameWidth="400" frameHeight="563"/>
+	<SubTexture name="pinkiebb left0012" x="5146" y="797" width="350" height="558" frameX="-50" frameY="-5" frameWidth="400" frameHeight="563"/>
+	<SubTexture name="pinkiebb left0013" x="5506" y="797" width="349" height="559" frameX="-51" frameY="-4" frameWidth="400" frameHeight="563"/>
+	<SubTexture name="pinkiebb right0000" x="5865" y="797" width="879" height="777"/>
+	<SubTexture name="pinkiebb right0001" x="6754" y="797" width="879" height="777"/>
+	<SubTexture name="pinkiebb right0002" x="6754" y="797" width="879" height="777"/>
+	<SubTexture name="pinkiebb right0003" x="10" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb right0004" x="10" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb right0005" x="899" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb right0006" x="899" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb right0007" x="1788" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb right0008" x="1788" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb right0009" x="2677" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb right0010" x="2677" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb right0011" x="3566" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb right0012" x="3566" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb right0013" x="3566" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb up0000" x="4455" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb up0001" x="5344" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb up0002" x="5344" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb up0003" x="6233" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb up0004" x="6233" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb up0005" x="7122" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb up0006" x="7122" y="1584" width="879" height="777"/>
+	<SubTexture name="pinkiebb up0007" x="10" y="2371" width="879" height="777"/>
+	<SubTexture name="pinkiebb up0008" x="10" y="2371" width="879" height="777"/>
+	<SubTexture name="pinkiebb up0009" x="899" y="2371" width="879" height="777"/>
+	<SubTexture name="pinkiebb up0010" x="899" y="2371" width="879" height="777"/>
+	<SubTexture name="pinkiebb up0011" x="1788" y="2371" width="879" height="777"/>
+	<SubTexture name="pinkiebb up0012" x="1788" y="2371" width="879" height="777"/>
+	<SubTexture name="pinkiebb up0013" x="1788" y="2371" width="879" height="777"/>
+</TextureAtlas>

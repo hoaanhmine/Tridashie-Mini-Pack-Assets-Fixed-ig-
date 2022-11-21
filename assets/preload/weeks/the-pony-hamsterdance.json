@@ -1,0 +1,32 @@
+{
+	"storyName": "The Pony Hamsterdance",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "the-pony-hamsterdance",
+	"freeplayColor": [
+		2,
+		131,
+		201
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"The Pony Hamsterdance",
+			"rd",
+			[
+				2,
+				131,
+				201
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "The Pony Hamsterdance",
+	"hiddenUntilUnlocked": false
+}

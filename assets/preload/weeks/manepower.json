@@ -1,0 +1,32 @@
+{
+	"storyName": "Mane Power",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "manepower",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		237,
+		69,
+		141
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Mane Power",
+			"pp",
+			[
+				237,
+				69,
+				141
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Mane Power"
+}

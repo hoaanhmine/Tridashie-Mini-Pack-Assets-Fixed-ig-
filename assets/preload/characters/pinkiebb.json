@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pinkiebb idle"
+		},
+		{
+			"offsets": [
+				-47,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pinkiebb left"
+		},
+		{
+			"offsets": [
+				56,
+				147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pinkiebb down"
+		},
+		{
+			"offsets": [
+				52,
+				147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pinkiebb up"
+		},
+		{
+			"offsets": [
+				78,
+				133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pinkiebb right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pinkiebb",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pp",
+	"flip_x": false,
+	"healthbar_colors": [
+		237,
+		69,
+		141
+	],
+	"camera_position": [
+		60,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

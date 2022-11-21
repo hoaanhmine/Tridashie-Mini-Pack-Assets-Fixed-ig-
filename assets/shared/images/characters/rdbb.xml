@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rdbb.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rdbb down0000" x="10" y="10" width="879" height="777"/>
+	<SubTexture name="rdbb down0001" x="899" y="10" width="879" height="777"/>
+	<SubTexture name="rdbb down0002" x="899" y="10" width="879" height="777"/>
+	<SubTexture name="rdbb down0003" x="1788" y="10" width="879" height="777"/>
+	<SubTexture name="rdbb down0004" x="1788" y="10" width="879" height="777"/>
+	<SubTexture name="rdbb down0005" x="2677" y="10" width="879" height="777"/>
+	<SubTexture name="rdbb down0006" x="2677" y="10" width="879" height="777"/>
+	<SubTexture name="rdbb down0007" x="3566" y="10" width="879" height="777"/>
+	<SubTexture name="rdbb down0008" x="3566" y="10" width="879" height="777"/>
+	<SubTexture name="rdbb down0009" x="4455" y="10" width="879" height="777"/>
+	<SubTexture name="rdbb down0010" x="4455" y="10" width="879" height="777"/>
+	<SubTexture name="rdbb down0011" x="5344" y="10" width="879" height="777"/>
+	<SubTexture name="rdbb down0012" x="5344" y="10" width="879" height="777"/>
+	<SubTexture name="rdbb down0013" x="5344" y="10" width="879" height="777"/>
+	<SubTexture name="rdbb idle0000" x="6233" y="10" width="667" height="484" frameX="-3" frameY="-98" frameWidth="670" frameHeight="582"/>
+	<SubTexture name="rdbb idle0001" x="6233" y="10" width="667" height="484" frameX="-3" frameY="-98" frameWidth="670" frameHeight="582"/>
+	<SubTexture name="rdbb idle0002" x="6910" y="10" width="655" height="501" frameX="0" frameY="-81" frameWidth="670" frameHeight="582"/>
+	<SubTexture name="rdbb idle0003" x="6910" y="10" width="655" height="501" frameX="0" frameY="-81" frameWidth="670" frameHeight="582"/>
+	<SubTexture name="rdbb idle0004" x="10" y="797" width="642" height="508" frameX="-9" frameY="-74" frameWidth="670" frameHeight="582"/>
+	<SubTexture name="rdbb idle0005" x="10" y="797" width="642" height="508" frameX="-9" frameY="-74" frameWidth="670" frameHeight="582"/>
+	<SubTexture name="rdbb idle0006" x="662" y="797" width="637" height="509" frameX="-13" frameY="-73" frameWidth="670" frameHeight="582"/>
+	<SubTexture name="rdbb idle0007" x="662" y="797" width="637" height="509" frameX="-13" frameY="-73" frameWidth="670" frameHeight="582"/>
+	<SubTexture name="rdbb idle0008" x="1309" y="797" width="587" height="578" frameX="-42" frameY="0" frameWidth="670" frameHeight="582"/>
+	<SubTexture name="rdbb idle0009" x="1309" y="797" width="587" height="578" frameX="-42" frameY="0" frameWidth="670" frameHeight="582"/>
+	<SubTexture name="rdbb idle0010" x="1906" y="797" width="575" height="557" frameX="-57" frameY="-21" frameWidth="670" frameHeight="582"/>
+	<SubTexture name="rdbb idle0011" x="1906" y="797" width="575" height="557" frameX="-57" frameY="-21" frameWidth="670" frameHeight="582"/>
+	<SubTexture name="rdbb idle0012" x="2491" y="797" width="583" height="552" frameX="-50" frameY="-26" frameWidth="670" frameHeight="582"/>
+	<SubTexture name="rdbb idle0013" x="2491" y="797" width="583" height="552" frameX="-50" frameY="-26" frameWidth="670" frameHeight="582"/>
+	<SubTexture name="rdbb idle0014" x="3084" y="797" width="588" height="549" frameX="-46" frameY="-29" frameWidth="670" frameHeight="582"/>
+	<SubTexture name="rdbb idle0015" x="3084" y="797" width="588" height="549" frameX="-46" frameY="-29" frameWidth="670" frameHeight="582"/>
+	<SubTexture name="rdbb left0000" x="3682" y="797" width="391" height="553" frameX="0" frameY="0" frameWidth="406" frameHeight="553"/>
+	<SubTexture name="rdbb left0001" x="4083" y="797" width="398" height="550" frameX="-3" frameY="-3" frameWidth="406" frameHeight="553"/>
+	<SubTexture name="rdbb left0002" x="4083" y="797" width="398" height="550" frameX="-3" frameY="-3" frameWidth="406" frameHeight="553"/>
+	<SubTexture name="rdbb left0003" x="4491" y="797" width="393" height="550" frameX="-12" frameY="-3" frameWidth="406" frameHeight="553"/>
+	<SubTexture name="rdbb left0004" x="4491" y="797" width="393" height="550" frameX="-12" frameY="-3" frameWidth="406" frameHeight="553"/>
+	<SubTexture name="rdbb left0005" x="4894" y="797" width="383" height="550" frameX="-23" frameY="-3" frameWidth="406" frameHeight="553"/>
+	<SubTexture name="rdbb left0006" x="4894" y="797" width="383" height="550" frameX="-23" frameY="-3" frameWidth="406" frameHeight="553"/>
+	<SubTexture name="rdbb left0007" x="5287" y="797" width="373" height="550" frameX="-33" frameY="-3" frameWidth="406" frameHeight="553"/>
+	<SubTexture name="rdbb left0008" x="5287" y="797" width="373" height="550" frameX="-33" frameY="-3" frameWidth="406" frameHeight="553"/>
+	<SubTexture name="rdbb left0009" x="5670" y="797" width="370" height="550" frameX="-36" frameY="-3" frameWidth="406" frameHeight="553"/>
+	<SubTexture name="rdbb left0010" x="5670" y="797" width="370" height="550" frameX="-36" frameY="-3" frameWidth="406" frameHeight="553"/>
+	<SubTexture name="rdbb left0011" x="6050" y="797" width="373" height="550" frameX="-33" frameY="-3" frameWidth="406" frameHeight="553"/>
+	<SubTexture name="rdbb left0012" x="6050" y="797" width="373" height="550" frameX="-33" frameY="-3" frameWidth="406" frameHeight="553"/>
+	<SubTexture name="rdbb left0013" x="6433" y="797" width="375" height="550" frameX="-31" frameY="-3" frameWidth="406" frameHeight="553"/>
+	<SubTexture name="rdbb right0000" x="6818" y="797" width="879" height="777"/>
+	<SubTexture name="rdbb right0001" x="10" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb right0002" x="10" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb right0003" x="899" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb right0004" x="899" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb right0005" x="1788" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb right0006" x="1788" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb right0007" x="2677" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb right0008" x="2677" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb right0009" x="3566" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb right0010" x="3566" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb right0011" x="4455" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb right0012" x="4455" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb right0013" x="4455" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb up0000" x="5344" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb up0001" x="6233" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb up0002" x="6233" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb up0003" x="7122" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb up0004" x="7122" y="1584" width="879" height="777"/>
+	<SubTexture name="rdbb up0005" x="10" y="2371" width="879" height="777"/>
+	<SubTexture name="rdbb up0006" x="10" y="2371" width="879" height="777"/>
+	<SubTexture name="rdbb up0007" x="899" y="2371" width="879" height="777"/>
+	<SubTexture name="rdbb up0008" x="899" y="2371" width="879" height="777"/>
+	<SubTexture name="rdbb up0009" x="1788" y="2371" width="879" height="777"/>
+	<SubTexture name="rdbb up0010" x="1788" y="2371" width="879" height="777"/>
+	<SubTexture name="rdbb up0011" x="2677" y="2371" width="879" height="777"/>
+	<SubTexture name="rdbb up0012" x="2677" y="2371" width="879" height="777"/>
+	<SubTexture name="rdbb up0013" x="2677" y="2371" width="879" height="777"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-8
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rdbb idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				148
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rdbb down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				212,
+				147
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rdbb up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				184,
+				135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "rdbb right"
+		},
+		{
+			"offsets": [
+				-172,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rdbb left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rdbb",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rd",
+	"flip_x": false,
+	"healthbar_colors": [
+		158,
+		219,
+		248
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

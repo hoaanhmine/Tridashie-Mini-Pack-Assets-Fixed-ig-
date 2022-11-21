@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Meanhoven",
+			"pp",
+			[
+				173,
+				65,
+				121
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "meanhoven",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Meanhoven",
+	"weekName": "Meanhoven",
+	"freeplayColor": [
+		173,
+		65,
+		121
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
